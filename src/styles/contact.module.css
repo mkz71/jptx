@@ -1,0 +1,92 @@
+.contactContainer {
+  padding: 5% 10%;
+  height: 100%;
+  width: 100%;
+}
+
+.about {
+  display: flex;
+  flex-direction: row;
+  flex-flow: row wrap;
+  justify-content: space-between;
+
+  margin-bottom: 4rem;
+  width: 100%;
+  border-bottom: 2px solid #ddb1b1;
+}
+
+.aboutInfo {
+  width: 60%;
+}
+
+.aboutParagraph {
+  margin: 1rem 0;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10rem;
+  width: 40%;
+}
+
+.contactSection {
+  margin-bottom: 1rem;
+}
+
+.contactHeader {
+  margin-bottom: 0.5rem;
+
+  font-size: 1.25rem;
+}
+
+.contactParagraph {
+  margin: 0;
+}
+
+.contactMap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+  width: 100%;
+}
+
+@media screen and (max-width: 1210px) {
+  .contactHeader {
+    font-size: 1.25rem;
+  }
+
+  .contactContainer {
+    padding: 17.5% 5% 0 5%;
+  }
+
+  .about {
+    border: none;
+  }
+
+  .aboutInfo {
+    min-width: 100%;
+    border-bottom: 2px solid #ddb1b1;
+    margin-bottom: 1rem;
+  }
+
+  .contact {
+    display: flex;
+
+    margin: 0;
+    padding-left: 0;
+    min-width: 100%;
+    min-height: 50%;
+  }
+
+  .contactSection {
+    margin-bottom: 2rem;
+  }
+
+  .contactMap {
+    display: none;
+  }
+}

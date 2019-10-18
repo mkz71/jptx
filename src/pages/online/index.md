@@ -1,5 +1,5 @@
 ---
-templateKey: 'online-page'
+templateKey: online-page
 path: /online
 title: Online Order
 image: /img/jumbotron.jpg

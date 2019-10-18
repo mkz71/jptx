@@ -2,10 +2,10 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
-import Testimonials from '../components/Testimonials'
-import Pricing from '../components/Pricing'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+// import Features from '../components/Features'
+// import Testimonials from '../components/Testimonials'
+// import Pricing from '../components/Pricing'
+// import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const OnlinePageTemplate = ({
   image,
@@ -42,7 +42,47 @@ export const OnlinePageTemplate = ({
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
+        <div className="columns">
+            <div className="column is-3 is-offset-1">
+                <p className="title is-4">ORDER ONLINE</p>
+            </div>
+            <div className="column is-narrow">
+                <a className="button is-primary" href="https://www.toasttab.com/fuji-at-west-on-chestnut/v2/online-order" target="_blank" rel="noopener noreferrer">ORDER HERE</a>
+            </div>
+        </div>
+        <div className="columns">
+            <div className="column is-3 is-offset-1">
+                <p className="title is-4">GRUBHUB</p>
+            </div>
+            <div className="column is-narrow">
+                <a className="button is-link" href="https://www.grubhub.com/restaurant/montien-thai-restaurant-63-stuart-st-boston/1251090" target="_blank" rel="noopener noreferrer">ORDER HERE</a>
+            </div>
+        </div>
+        <div className="columns">
+            <div className="column is-3 is-offset-1">
+                <p className="title is-4">UBER EATS</p>
+            </div>
+            <div className="column is-narrow">
+                <a className="button is-primary" href="https://www.ubereats.com/en-US/boston/food-delivery/montien-thai-restaurant/Hq6kb3N4RTKg0N3q0-PNzQ/" target="_blank" rel="noopener noreferrer">ORDER HERE</a>
+            </div>
+        </div>
+        <div className="columns">
+            <div className="column is-3 is-offset-1">
+                <p className="title is-4">DOORDASH</p>
+            </div>
+            <div className="column is-narrow">
+                <a className="button is-link" href="https://www.doordash.com/store/great-chow-quincy-57811/" target="_blank" rel="noopener noreferrer">ORDER HERE</a>
+            </div>
+          </div>
           <div className="columns">
+            <div className="column is-3 is-offset-1">
+                <p className="title is-4">CAVIAR</p>
+            </div>
+            <div className="column is-narrow">
+                <a className="button is-primary" href="https://www.trycaviar.com/m/bgood-584" target="_blank" rel="noopener noreferrer">ORDER HERE</a>
+            </div>
+          </div>
+          {/* <div className="columns">
             <div className="column is-7 is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
               <p>{description}</p>
@@ -97,7 +137,7 @@ export const OnlinePageTemplate = ({
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

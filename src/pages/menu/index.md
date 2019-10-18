@@ -3,209 +3,208 @@ templateKey: 'menu-page'
 path: /menu
 title: MENU
 ---
-### APPETIZERS $6.50
+### APPETIZERS $5.95
 
-**VEGGIE SPRING ROLL**\
+**A1 VEGGIE SPRING ROLL (4)**\
 Crispy Thai veggie spring rolls with sweet sauce.
 
-**CHICKEN SATAY +$1**\
+**A2 CHICKEN SATAY (4) +$1**\
 Grilled chicken on skewers marinated in Thai herb and coconut milk with peanut sauce.
 
-**RAVIOLI DELIGHT (Steamed or Fried)**\
-Seasoned shrimp and pork dumplings with sweet ginger sauce.
+**A3 DUMPLING DELIGHT (6) (Steamed or Fried)**\
+Seasoned pork dumplings with sweet soy sauce.
 
-**CURRY PUFF +$2**\
-Crispy small pie consisting of curry powder with onion, carrot, corn, potato with sweet sauce.
+**A4 CURRY PUFF (3)**\
+Crispy small pie with curry powder, onion, carrot, corn, potato with sweet sauce.
 
-**CHICKEN NUGGETS**\
-Fried chicken nuggets with sweet sauce.
-
-**CHIVE DUMPLING +$1**\
+**A5 CHIVE DUMPLING (3)**\
 Fried veggie chive dumpling in thick dough with sweet soy sauce.
 
-**CRISPY CRAB WONTON**\
-Fried crispy wonton filled with imitation crab meat and cream cheese with sweet sauce.
+**A6 CRISPY CRAB WONTON (5)**\
+Fried wonton with imitation crab meat and cream cheese with sweet sauce.
 
-**SCALLION PANCAKE**\
+**A7 SCALLION PANCAKE (8)**\
 Pan fried vegetarian pancakes with bits of scallions with peanut sauce.
 
-**CHICKEN WINGS +$1**\
+**A8 CHICKEN WINGS (6) +$1**\
 Fried chicken wings with sweet sauce.
 
-**CRISPY TOFU**\
-Golden fried tofu with sweet sauce and grounded peanuts.
+**A9 CRISPY TOFU**\
+Fried tofu with sweet sauce and grounded peanuts.
 
-**FISH TOD MUN +$1**\
-Fish cake with ground fish mixed with green beans, egg in red curry paste with sweet sauce.
-
-**LARB LETTUCE WRAP***\
-**(Chicken, Tofu) +$3**\
-Choice of meat with spicy lime juice, red onion, lemongrass, grounded rice toasted, scallion, cilantro with lettuce.
-
-**SPICY YUM BEEF* +$4**\
-Grilled beef in spicy lime juice with red onion, lemongrass, lettuce, tomato, grounded rice toasted, scallion, cilantro.
+**A10 FISH TOD MUN* (5)**\
+Fishcake filled with red curry paste, egg, green beans with sweet sauce.
 
 - - -
 
-### Soups $4.25
+### Soups $4.95
 
+**Choice of Proteins..**\
 **(Meatless) +$0.00 (Chicken) +$0.50**\
 **(Veggie) +$0.75 (Shrimp) +$1.25**  
 
-**TOM YUM SOUP***\
-Thai style hot & sour soup with lemongrass, lime juice, mushroom.
+**S1 TOM YUM SOUP***\
+Thai hot & sour soup with lemongrass, lime juice, mushroom, cilantro.
 
-**COCONUT SOUP**\
-Thai style coconut soup with coconut milk, galangal, lemon juice.
+**S2 COCONUT SOUP**\
+Thai coconut soup with coconut milk, galangal, lemon juice, cilantro.
 
-**VEGGIE SOUP (no choice of meat)**\
-Mixed veggie in a clear veggie broth.
+**S3 VEGGIE SOUP (no choice of meat)**\
+Mixed veggie in a clear veggie broth, scallion, cilantro.
+
+- - -
+
+### Yum Salad $8.95
+
+**Y1 LARB SALAD***\
+**(Chicken or Fried Tofu)**\
+Spicy lime juice, red onion, lemongrass, grounded rice toasted, lettuce, scallion, cilantro.
+
+**Y2 PAPAYA SALAD* +$1**\
+Green papaya, lime juice, fresh chilli, garlic, peanut, green beans, carrots, palm sugar, tomato, lettuce.
+
+**Y3 YUM BEEF SALAD* +$2.50**\
+Grilled beef, spicy lime juice, red onion, lemongrass, tomato, grounded rice toasted, lettuce, scallion, cilantro.
 
 - - -
 
 ### Noodles & Fried Rice $8.25
 
 **Add a Fried Egg on Top +$2**\
-**Choice 1 of Proteins..**\
-**(Meatless) +$0.00 (Chicken, Tofu) +$0.75 (Pork, Veggie) +$1.25**\
-**(Beef, Shrimp, Crispy Chicken) +$2.75 (Vegan Meat) +3.50**  
+**Choice of Proteins..**\
+**(Meatless) +$0.00 (Chicken or Tofu) +$0.75 (Pork or Veggie) +$1.25**\
+**(Beef or Shrimp or Crispy Chicken) +$2.50 (Vegan Meat) +3.00**  
 
-#### \-Noodles-
-
-**PAD THAI NOODLES**\
+**B1 PAD THAI NOODLES**\
 Rice noodles with egg, bean sprout, turnip, scallion, ground peanut in house Pad Thai sauce.
 
-**DRUNKEN NOODLES***\
+**B2 DRUNKEN NOODLES***\
 Flat rice noodles with egg, onion, bamboo shoots, basil leaves, bell pepper in a spicy drunken sauce.
 
-**PAD SEE EW NOODLES**\
-Flat rice noodles with egg, Chinese broccoli in sweet soy sauce.
+**B3 PAD SEE EW NOODLES**\
+Flat rice noodles with egg, carrot, broccoli in sweet soy sauce.
 
-**JP BASIL NOODLES***\
-Rice rice noodles with bell pepper, green beans, basil leaves in house chili sauce.
+**B4 CHILI LO MEIN NOODLES***\
+Lo Mein noodles with red pepper, green beans, bean sprout, sweet basil in house chili sauce.
 
-#### \-Fried Rice-
-
-**MANGO FRIED RICE**\
+**B5 MANGO FRIED RICE**\
 Fried rice with egg, mango chunks, onion, carrots, green peas in house soy sauce.
 
-**PINEAPPLE FRIED RICE**\
-Fried rice with egg, pineapple, onion, scallion, raisin, carrot, baby corn in Thai curry powder.
+**B6 PINEAPPLE FRIED RICE**\
+Fried rice with egg, pineapple, cashew nuts, onions, snow peas, baby corn, red pepper in Thai curry powder.
 
-**BASIL FRIED RICE***\
-Fried rice with egg, onion,bell pepper, basil leaves in our spicy basil chili sauce.
+**B7 BASIL FRIED RICE***\
+Fried rice with egg, onions, sweet basil, red pepper in chili basil sauce.
 
-**PIK-POW FRIED RICE***\
-Fried rice with basil leaves, onions, bell pepper in Pik-Pow chili paste.
+**B8 PIK-POW FRIED RICE***\
+Fried rice with egg, onions, red pepper, snow peas, carrots in Pik-Pow chili paste.
 
 - - -
 
-### Stir-fried & Curry $8.75
+### Stir-fried & Curry $10.50
 
 **Served with White Rice** 
 **Add a Fried Egg on Top +$2**\
-**Choice 1 of Proteins..**\
-**(Meatless) +$0.00 (Chicken, Tofu) +$0.75 (Pork, Veggie) +$1.25**\
-**(Beef, Shrimp, Crispy Chicken) +$2.75 (Vegan Meat) +3.50**
+**Choice of Proteins..**\
+**(Meatless) +$0.00 (Chicken or Tofu) +$0.75 (Pork or Veggie) +$1.25**\
+**(Beef or Shrimp or Crispy Chicken) +$2.50 (Vegan Meat) +3.00**
 
-#### \-Stir-fried-
+**D1 SWEET & SOUR**\
+Sweet & sour sauce with pineapple, tomato, onions, red pepper, cucumber, scallion.
 
-**HOT BASIL***\
-Stir-fried chili basil sauce with mushroom, bell pepper, onion, basil leaves.
+**D2 SPICY BASIL EGGPLANT***
+Chili basil sauce with eggplant, red pepper, Jalapeños, sweet basil.
 
-**SWEET & SOUR**\
-Stir-fried sweet & sour sauce with pineapple, snow peas, carrot, onion, bell pepper.
+**D3 BROCCOLI STIR-FRIED**\
+House light brown sauce with broccoli and carrot.
 
-**SPICY EGGPLANT***
-Stir-fried chili garlic sauce with eggplant, bell pepper, jalapeno, basil leaves.
+**D4 GINGER & SCALLION**\
+Ginger sauce with shredded ginger, onions, scallions, baby corn, mushrooms.
 
-**BROCCOLI STIR-FRIED**\
-Stir-fried light brown sauce with broccoli, mushroom, carrot.
+**D5 CHILI PIK-POW***\
+Pik-Pow chili paste with mushrooms, bamboo shoots, red pepper, baby corn, snow peas.
 
-**GINGER & SCALLION**\
-Stir-fried with baby corn, onions, mushrooms, scallion, shredded ginger.
+**D6 RED CURRY***\
+Red coconut curry with eggplant, bamboo shoot, red pepper, sweet basil.
 
-**CHILI PIK-POW***\
-Stir-fried Pik-Pow chili paste with mushrooms, bamboo shoots, bell pepper, baby corn, snow peas.
+**D7 MANGO YELLOW CURRY***\
+Yellow coconut curry with mango chunks, green peas, onions, snow peas, red pepper.
 
-#### \-Curry-
-
-**RED CURRY***\
-Red coconut curry with eggplant, bamboo shoot, bell peppers, basil leaves.
-
-**MANGO YELLOW CURRY***\
-Yellow coconut curry with mango chunks, green peas, onions, snow peas, bell peppers.
-
-**MASSAMAN CURRY***\
+**D8 MASSAMAN CURRY***\
 Thai coconut curry with carrot, onion, potato, peanut.
+
+**D9 GREEN CURRY***\
+Green coconut curry with eggplant, bamboo shoots, red pepper, green peas, sweet basil.
 
 - - -
 
-### Authentic Thai $8.50
+### Authentic Thai $9.95
 
 **Add a Fried Egg on Top +$2**
 
-#### \-Over Rice-
-
-**KHAO BAI KAPOW***\
+**T1 KHAO BAI KAPOW***\
 **(Chicken) +$0.75 (Pork) +$1.25**\
-**(Beef, Shrimp, Roasted Pork, Crispy Chicken, Crispy Pork Belly) +$2.75**\
-Stir-fried Thai chili basil sauce with green beans, bell pepper, holy basil leaves over rice.
+**(Beef or Shrimp or Roasted Pork or Crispy Chicken or Crispy Pork Belly) +$2.75**\
+Chili basil sauce with Thai basil, Jalapeños, red pepper over rice.
 
-**KHAO KATIEM PRIK THAI** 
-**(Chicken) +$0.75 (Pork) +$1.25 (Beef, Shrimp) +$2.75**\
-Stir-fried in garlic & pepper sauce with mushroom over rice.
+**T2 KHAO KATIEM PRIK THAI** 
+**(Chicken) +$0.75 (Pork) +$1.25 (Beef or Shrimp) +$2.50**\
+Thai garlic & pepper sauce over rice.
 
-**KHAO MED PRIK THAI ON*** 
-**(Pork) +$1.25 (Crispy Pork Belly) +$2.75** 
-Stir-fried Thai chili paste with basil leaves, bell pepper, rhizome, peppercorn over rice.
+**T3 KHAO MED PRIK THAI ON*** 
+**(Pork) +$1.25 (Crispy Pork Belly) +$2.50** 
+Thai chili paste with sweet basil, red pepper, Jalapeños, rhizome, peppercorn over rice.
 
-**KHAO PANANG CURRY***\
-**(Chicken, Tofu) +$0.75 (Pork) +$1.25**\
-**(Beef, Shrimp, Crispy Chicken) +$2.75**\
-Red Panang coconut curry with lime leaves, basil leaves, bamboo shoots, baby corn, green peas, bell peppers over rice.
+**T4 KHAO PANANG CURRY***\
+**(Meatless) +$0.00 (Chicken or Tofu) +$0.75 (Pork) +$1.25**\
+**(Beef or Shrimp or Crispy Chicken) +$2.50**\
+Red coconut curry with sweet basil, bamboo shoots, lime leaves, red pepper over rice.
 
-**KHAO PIK-KHING***\
-**(Chicken, Tofu) +$0.75 (Pork) +$1.25**\
-**(Beef, Shrimp, Crispy Chicken, Crispy Pork Belly) +$2.75** 
-Stir-fried Pik-Khing chili sauce with green bean over rice.
+**T5 KHAO PIK-KHING***\
+**(Meatless) +$0.00 (Chicken or Tofu) +$0.75 (Pork) +$1.25**\
+**(Beef or Shrimp or Crispy Chicken or Crispy Pork Belly) +$2.50** 
+Pik-Khing chili sauce with green bean over rice.
 
-**THAI OMELET OVER RICE**\
-**(Chicken) +$0.75 (Pork, Veggie) +$1.25 (Shrimp) +$2.75**\
-Thai style omelet mixed with choice of meat, scallion, cilantro over rice.
+**T6 THAI OMELET OVER RICE**\
+**(Meatless) +$0.00 (Chicken) +$0.75**\
+**(Pork or Veggie) +$1.25 (Shrimp) +$2.50**\
+Thai omelet mixed with choice of meat, scallion, cilantro over rice.
 
-**ROASTED PORK OVER RICE +$3.25**\
-**CRISPY CHICKEN OVER RICE +$3.25**\
-Roasted pork or crispy chicken with crispy pork belly topped with sweet red soybean gravy, boiled egg over rice.
+**T7 ROASTED PORK OVER RICE +$3.25**\
+Roasted pork with Crispy Pork-Belly, Thai sweet sausage, scallions, boiled egg topped with sweet red gravy over rice.
 
-**THAI BBQ OVER RICE**\
-**(BBQ Chicken or BBQ Pork) +$2.75**\
-Thai style barbeque choice of meat with lettuce, sweet chili sauce over rice.
+**T8 CRISPY CHICKEN OVER RICE +$3.25**\
+Crispy chicken with Crispy Pork-Belly, Thai sweet sausage, scallions, boiled egg topped with sweet red gravy over rice.
 
-**BRAISED PORK OVER RICE +$3.25**\
+**T9 THAI BBQ OVER RICE +$2.50**\
+**(BBQ Chicken or BBQ Pork)**\
+Thai style bbq choice of meat with lettuce, carrots, scallion, sweet chili sauce over rice.
+
+**T10 BRAISED PORK OVER RICE +$3.25**\
 Thai style braised pork with bok choy, cilantro, scallion, boiled egg over rice.
 
-#### \-Noodles-
+**T11 KHAO SOI GAI* +$0.75**\
+Northern Thailand curry egg noodles with chicken, chili paste, crispy noodles, red onions, scallions, cilantro.
 
-**KHAO SOI GAI* +$0.75**\
-Curry egg noodles with chicken, red onion, chili paste, scallions, cilantro.
+**T12 BA MEE HAENG**\
+**(Meatless) +$0.00**\
+**(Roasted Pork or Crispy Chicken or Crispy Pork Belly ) +$2.50**\
+Egg noodles with crispy wonton skin, fishcake, grounded pork, grounded peanuts, bok choy, fried garlic, scallions, cilantro.
 
-**BA MEE HAENG** 
-**(Roasted Pork, Crispy Chicken, Crispy Pork Belly ) +$2.75**\
-Egg noodles with crispy wonton skin, fishcake, grounded pork, lettuce, grounded peanuts, bok choy, fried garlic, scallions, cilantro.
-
-**LEK HAENG**\
-**(Roasted Pork, Crispy Chicken, Crispy Pork Belly ) +$2.75**\
-Rice noodles mixed in sweet soy sauce with crispy wonton skins, fishcake, grounded pork, lettuce , grounded peanuts, bok choy , bean sprouts , fried garlic, scallion, cilantro.
+**T13 LEK HAENG**\
+**(Meatless) +$0.00**\
+**(Roasted Pork or Crispy Chicken or Crispy Pork Belly ) +$2.50**\
+Rice noodles with sweet chili-lime sauce, crispy wonton skins, fishcake, grounded pork, grounded peanuts, bean sprouts, fried garlic, scallion, cilantro.
 
 - - -
 
 ### Side Orders
 
 **White Rice $1.75**\
-**Steamed Rice Noodles $1.75**\
-**Steamed Veggie $3.75**\
-**Peanut Sauce $1.25**\
+**Rice Noodles $1.75**\
+**Fried Egg $2.00**\
+**Steamed Mixed Veggie $3.25**\
+**Peanut Sauce $0.75**\
 **Chili Fish Sauce $0.75**\
 **Hot Sauce $0.10**\
 **Sweet Sauce $0.10**\
@@ -215,9 +214,11 @@ Rice noodles mixed in sweet soy sauce with crispy wonton skins, fishcake, ground
 
 **Can of soda (Coke, Diet Coke, Gingle Ale) $1.75**\
 **Bottle of Water $1.75**\
-**Thai Ice Tea $4.25**  
+**Thai Ice Tea $4.25**\\
 
-### \* Spicy
+### (*) Indicated as Spicy item
+
+Boston Bag fee $0.05 may be applied
 
 Subject to Mass meal tax. Subject and prices may be changed without notice.
 
