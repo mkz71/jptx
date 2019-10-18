@@ -17,6 +17,6 @@ Addtionally, JP Thai Express has been offering complete catering services. Conta
 Jamaica Plain, MA 02130
 
 ### Hours
-Sun-Mon 12:00pm-10:30pm  
-Tue-Thur 12:00pm-11:00pm  
-Fir-Sat 12:00pm-11:30pm
+**Sun-Mon** 12:00pm-10:30pm  
+**Tue-Thur** 12:00pm-11:00pm  
+**Fir-Sat** 12:00pm-11:30pm
